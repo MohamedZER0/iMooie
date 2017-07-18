@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">iMooie</string>
+
+    <string name="bottom_bar_question">Questions</string>
+    <string name="bottom_bar_services">Contact us</string>
+    <string name="bottom_bar_home">Home</string>
+    <string name="bottom_bar_videos">Videos</string>
+    <string name="bottom_bar_content">Content</string>
+    <string name="About_Activity">Thanks for choosing iMooie multifunction IPL beauty \ndevice technology,iMooie use advanced intense pulsed \nlight "IPL" filter out harmful
+    light and invalid light to \nkeep effective light according to three \ndifferent functions and could achieve hair removal, \nskin rejuvenation and acne clearance by changing different function lamps.
+    \n\nThis product with efficient, fashion, technology, health \nas the foundation of enterprise development, choosing \niMooie IPL means that
+    you construct a privacy beauty \nsalon. It is beginning of beauty, In order to get the \nbetter effect for iMooie IPL, We suggest you view user \nmanual carefully using and
+    safe keep this user manual, \nyou can install the iMooie App for Android and Apple \niOS systems to help us step by step.</string>
+
+    <string name="How_To_Use">Replace the current lamp with the acne treatment \nlamp.
+    \nClean any makeup and cream from the treated area \nbefore start using the device.
+    \nConnect the iMooie host device with the electricity \nusing the power adaptor 220V 50/60HZ.
+    \n\nTurn on the power button \nand wait for the LED light to be on.
+    \nTest the skin tone color by using the built-in sensor of \nthe device as the above image</string>
+
+    <string name="video_name_1">Street Racing</string>
+    <string name="video_name_2">Mini Need For Speed</string>
+    <string name="video_name_3">Fight</string>
+
+    <string name="video_description_1">Duration 03:16 min</string>
+
+
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+
+    <string name="main_menu">Main Menu</string>
+    <string name="main_about">About</string>
+    <string name="main_how_to_use">How To Use</string>
+
+    <string name="content_1_title">PAINLESS</string>
+    <string name="content_1_detail">Safe and non-irritating, "0" side \neffects painless</string>
+    <string name="content_2_title">SMART LOOK</string>
+    <string name="content_2_detail">Body with ergonomic design, light \nweight, compact, smart look.</string>
+    <string name="content_3_title">CONTACT SENSOR</string>
+    <string name="content_3_detail">Contact skin sensor (no light \nshooting if not touch skin well).</string>
+    <string name="content_4_title">FAST TREATMENT</string>
+    <string name="content_4_detail">Fast treatment 1 flash per \n2 seconds.</string>
+</resources>

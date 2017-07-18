@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="accent_purple">#FF9800</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="activity_bg_black">#374046</color>
+
+    <color name="colorPrimary">#ffffff</color>
+
+    <color name="intro">#FF80AA</color>
+    <color name="black_overlay">#66000000</color>
+</resources>
